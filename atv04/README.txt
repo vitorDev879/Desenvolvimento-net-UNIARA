@@ -1,0 +1,1 @@
+Crie um Dynamic web Project com um html e efetue a requisição pelo navegador
