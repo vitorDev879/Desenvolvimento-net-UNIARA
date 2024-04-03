@@ -1,0 +1,1 @@
+Crie uma página de login ( login e senha) que autentique no servidor, caso seja usuário e senha corretos, mostre uma página JSP com os dados do usuário logado (Objeto Pessoa (Nome, Rg, CPF, Data de Nascimento, Estado Cívil) e caso seja um usuário e/ou senha incorretos, avise o usuário
